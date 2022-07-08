@@ -2,12 +2,11 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Nitin Kumar Dubey👋</b></h1>
 </p>
-<br>
-- 👋 Hi, I’m @nitinkumardubey
-- 👀 I’m interested in learning new logics and coding.
-- 🌱 I’m currently learning C and C++ language.
-- 💞️ I’m looking to collaborate on projects
-- 📫 Reach me via Email nitinkumardubey60@gmail.com.
+- 👋 Hi, I’m @nitinkumardubey<br>
+- 👀 I’m interested in learning new logics and coding.<br>
+- 🌱 I’m currently learning C and C++ language.<br>
+- 💞️ I’m looking to collaborate on projects<br>
+- 📫 Reach me via Email nitinkumardubey60@gmail.com.<br>
 
 <!---
 nitinkumardubey/nitinkumardubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
