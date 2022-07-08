@@ -2,6 +2,7 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Nitin Kumar Dubey👋</b></h1>
 </p>
+<br>
 - 👋 Hi, I’m @nitinkumardubey
 - 👀 I’m interested in learning new logics and coding.
 - 🌱 I’m currently learning C and C++ language.
