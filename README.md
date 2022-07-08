@@ -1,3 +1,7 @@
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+<p>
+  <h1 align="center"><b>Hello there, I'm Sunchit Dudeja 👋</b></h1>
+</p>
 - 👋 Hi, I’m @nitinkumardubey
 - 👀 I’m interested in learning new logics and coding.
 - 🌱 I’m currently learning C and C++ language.
