@@ -1,5 +1,6 @@
 [Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-<p>
+
+<p style="background-color:'red'">
   <h1 align="center"><b>Hello there, I'm Nitin Kumar Dubey👋</b></h1>
 </p>
 - 👋 Hi, I’m @nitinkumardubey<br>
