@@ -1,7 +1,7 @@
-<div style="border-radius: 10px;">
-<!--   ![My SVG Image](https://raw.githubusercontent.com/your_username/your_repository/main/path/to/your/image.svg) -->
+<!--<div style="border-radius: 10px;">
+   ![My SVG Image](https://raw.githubusercontent.com/your_username/your_repository/main/path/to/your/image.svg) -->
   ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-</div>
+<!-- </div> -->
 <p>
   <h1 align="center"><b>Hello there, I'm Nitin Kumar Dubey👋</b></h1>
 </p>
